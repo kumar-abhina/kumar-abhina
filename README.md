@@ -1,4 +1,4 @@
-# 🤖 Robotics Portfolio
+# 🤖 Hello Everyone 
 
 ---
 
@@ -21,12 +21,10 @@ In addition, I have strong hands-on experience with 3D perception, working exten
 - ⚡ *Fun fact: I secretly talk to robots!*
 ---
 
-## 🌐 Socials
+## 🌐 Find Me At
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhinav-kumar2000/)  
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@RobuRishabh)  
-[![Medium](https://img.shields.io/badge/Medium-%23000000.svg?logo=Medium&logoColor=white)]([https://medium.com/@RobuRishabh](https://medium.com/@abhinav6698))  
-[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-blue?style=for-the-badge)](https://scholar.google.com/citations?hl=en&user=hp-KCkIAAAAJ)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhinav-kumar2000/)[[YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)]()  
+[![Medium](https://img.shields.io/badge/Medium-%23000000.svg?logo=Medium&logoColor=white)]([https://medium.com/@RobuRishabh](https://medium.com/@abhinav6698))[![Google Scholar](https://img.shields.io/badge/Google%20Scholar-Profile-blue?style=for-the-badge)](https://scholar.google.com/citations?hl=en&user=hp-KCkIAAAAJ)
 
 ---
 
