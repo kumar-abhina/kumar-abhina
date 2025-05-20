@@ -1,15 +1,4 @@
 # 🤖 Hello Everyone 
-
----
-
-## 🚀 SUMMARY
-
-Hi, I'm Abhinav Kumar—a robotics engineer with a Master's in Robotics from Northeastern University, currently working as a Research Assistant. My research primarily focuses on robotic manipulation and grasping using deep learning and computer vision. I’ve developed and trained reinforcement learning agents, often combined with imitation learning, to handle complex interaction tasks in cluttered environments.
-
-In addition, I have strong hands-on experience with 3D perception, working extensively with tools like ROS/ROS2, PyTorch, and various SLAM toolboxes. While I’ve explored SLAM systems, my core interest lies in applying AI to enhance robotic perception and intelligent control. I’m passionate about building real-world solutions that bridge learning and physical systems..
-
----
-
 ## About ME
 
 - 👋 **Hello, I’m Abhinav Kumar**
